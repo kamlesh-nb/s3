@@ -1,0 +1,12 @@
+{
+  "name": "@kamlesh-nb/s3",
+  "version": "1.0.0",
+  "description": "API for managing S3 Buckets using Terraform",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["AWS", "S3", "Terraform", "Node", "Express"],
+  "author": "kamlesh bambarde",
+  "license": "ISC"
+}
